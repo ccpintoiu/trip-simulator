@@ -1,0 +1,25 @@
+Bucharest     
+Iaşi          
+Cluj-Napoca   
+Timişoara     
+Craiova       
+Constanţa     
+Galaţi             
+Braşov              
+Ploieşti           
+Brăila        
+Oradea        
+Bacău         
+Arad          
+Piteşti       
+Sibiu         
+Târgu-Mureş   
+Baia Mare     
+Baia Mare     
+Buzău         
+Botoşani      
+Satu Mare     
+Suceava       
+Piatra Neamţ  
+Târgu Jiu     
+Tulcea 
